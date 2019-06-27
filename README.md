@@ -30,7 +30,7 @@ The sample bookshelf app provides examples of using the following Cloud APIs:
 
 ## Licensing
 
-* See [LICENSE](LICENSE)
+#* See [LICENSE](LICENSE)
 
 [.NET Cloud Client Library]: https://github.com/googlecloudplatform/gcloud-dotnet
 [Google API Client Library]: https://github.com/google/google-api-dotnet-client
